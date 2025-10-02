@@ -1,0 +1,4 @@
+transformers #lets Python download & run Hugging Face models.
+langchain #lets Python build chains, prompts, memory, workflows for LLMs.
+langchain-huggingface #acts as the bridge between Hugging Face models and LangChain’s framework.
+torch #PyTorch, a deep learning framework that supports GPU acceleration.
